@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🌱 Currently in a senior-year CSE(AI & ML) undergraduate at JNGEC Sundernagar, Himachal Pradesh.<br>✨ Passionate about creating intelligent systems and full-stack applications.<br> 
-🖥️ See my Portfolio(https://darksuryansh.github.io). <br>🎯 My goal is to contribute to open-source and work on innovative AI-driven projects.<br>👯 Looking forward to collaborating on some amazing projects.<br>🧠 Seeking opportunities to apply my skills in AI and full-stack development to real-world problems.<br>📫 You can contact me at suryanshbhardwaj04@gmail.com<br>🤝 Let's connect and innovate together!
+🖥️ See my ![Portfolio](https://darksuryansh.github.io). <br>🎯 My goal is to contribute to open-source and work on innovative AI-driven projects.<br>👯 Looking forward to collaborating on some amazing projects.<br>🧠 Seeking opportunities to apply my skills in AI and full-stack development to real-world problems.<br>📫 You can contact me at suryanshbhardwaj04@gmail.com<br>🤝 Let's connect and innovate together!
 
 
 ## 🌐 Socials:

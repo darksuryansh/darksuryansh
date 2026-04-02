@@ -1,7 +1,7 @@
 # 👋 I'm Suryansh Sharma.
 
 
-✨ Passionate about creating intelligent systems and full-stack applications.<br> 
+✨ Creating intelligent systems and full-stack applications.<br> 
 🖥️ See my [Portfolio](https://darksuryansh.github.io).<br>📫 You can contact me at suryanshbhardwaj04@gmail.com<br>🤝 Let's connect together!
 
 ## 🌐 Socials:
